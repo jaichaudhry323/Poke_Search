@@ -2,6 +2,4 @@
 A simple React Native App,<br>
 Using Axios
 
-![alt text](https://pasteboard.co/JjIbSva.png)
-
-<img height="500" width="300"  src=“https://pasteboard.co/JjIbSva.png”>
+![Screenshot_1584116810](https://user-images.githubusercontent.com/42890838/88637609-04c8c000-d0d8-11ea-9649-2d453ea93513.png)
