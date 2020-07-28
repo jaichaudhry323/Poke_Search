@@ -1,4 +1,6 @@
 # Poke_Search
-Just a simple Axios App , With a Cute Pokemon Gif 
+A simple React Native App,<br>
+Using Axios
 
-To Be Used with react native packages
+
+![Screenshot](https://ibb.co/1bVDDT4)
